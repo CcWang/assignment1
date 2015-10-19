@@ -1,1 +1,4 @@
-this is my readme.txt file.
+this is my readme.txt file. Hello Dojo.
+
+Adding a new line.
+
